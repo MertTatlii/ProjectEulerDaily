@@ -15,7 +15,7 @@
 #     if number %i == 0 and primecheck(i)== True:
 #         biggest_prime=i
 # print(biggest_prime)
-#aksdjasf
+#aksdjaasdasd
 
 #4. QUESTİON--------------------------------------------
 # number = "125648"
