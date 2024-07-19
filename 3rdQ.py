@@ -1,6 +1,7 @@
 # Project Euler 3. QUESTİON---------------------------------------------------------
 #600851475143
 import math
+
 def primecheck(x):
     is_prime =True
 
