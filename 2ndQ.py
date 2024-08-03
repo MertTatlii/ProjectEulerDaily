@@ -2,7 +2,7 @@
 
 def fibonacci(limit):
     fib_series = []
-    a, b, summary = 0, 1, 0
+    a, b, summary = 1, 2, 0
     while a <= limit:
         fib_series.append(a)
         if a%2==0:

@@ -1,5 +1,5 @@
 def divisible(x):
-    if x%3==0 or x%5==0:
+    if x % 3 == 0 or x % 5 == 0:
         return True
     else:
         return False
